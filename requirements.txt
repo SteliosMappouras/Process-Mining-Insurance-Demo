@@ -1,4 +1,5 @@
-streamlit
+graphviz
 pm4py
+streamlit
 pandas
 numpy
