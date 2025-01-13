@@ -1,0 +1,4 @@
+streamlit
+pm4py
+pandas
+numpy
